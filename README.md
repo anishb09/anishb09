@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building websites
 - 📫 India
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am cool
+- 
 
 <!---
 anishb09/anishb09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
